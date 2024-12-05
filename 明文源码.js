@@ -1347,26 +1347,7 @@ singbox订阅地址:
 https://${proxyhost}${hostName}/${uuid}?sb
 https://${proxyhost}${hostName}/${uuid}?singbox
 ---------------------------------------------------------------
-################################################################
-${FileName} 配置信息
----------------------------------------------------------------
-${动态UUID}HOST: ${hostName}
-UUID: ${userID}
-FKID: ${fakeUserID}
-UA: ${UA}
-${订阅器}
----------------------------------------------------------------
-################################################################
-v2ray
----------------------------------------------------------------
-${v2ray}
----------------------------------------------------------------
-################################################################
-clash-meta
----------------------------------------------------------------
-${clash}
----------------------------------------------------------------
-################################################################
+
 ${decodeURIComponent(atob('dGVsZWdyYW0lMjAlRTQlQkElQTQlRTYlQjUlODElRTclQkUlQTQlMjAlRTYlOEElODAlRTYlOUMlQUYlRTUlQTQlQTclRTQlQkQlQUMlN0UlRTUlOUMlQTglRTclQkElQkYlRTUlOEYlOTElRTclODklOEMhCmh0dHBzJTNBJTJGJTJGdC5tZSUyRkNNTGl1c3NzcwotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KZ2l0aHViJTIwJUU5JUExJUI5JUU3JTlCJUFFJUU1JTlDJUIwJUU1JTlEJTgwJTIwU3RhciFTdGFyIVN0YXIhISEKaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY21saXUlMkZlZGdldHVubmVsCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQolMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjM='))}
 `;
 	} else {
